@@ -23,7 +23,7 @@ Algunos elementos que surgen de la motivación y del análisis de este proyecto 
 
 Los resultados encontrados muestran que:
 
-- Luego de la Directiva Ministerial N.29 de 2005 hay un aumento de los asesintaos selectivos en Colombia por parte de Agentes del Estado.
+- Luego de la Directiva Ministerial N.29 de 2005 hay un aumento de los asesinatos selectivos en Colombia por parte de Agentes del Estado.
 - Una de las palabras más repetidas por el ex-presidente en sus discursos es seguridad y, por tanto, esto muestra la importancia que tenía para él transmitir ideas sobre el tema en cuestión.
 - Los asesinatos selectivos por parte de los agentes del Estado muestran un comportamiento similar al de la mención de la palabra seguridad, lo que puede sugerir dos hipótesis: había más bajas y, por tanto, el presidente hablaba del tema o, por lo contrario, (causalidad reversa) cuando el presidente de hablaba de seguridad se producían más bajas
 - Bases de datos a partir de fuentes no tradicionales, como los discursos, permiten dar una mirada desde un aspecto no tradicional que puede dar cuentas del enfoque de políticas públicas y la relación entre el supervisor, en este caso el presidente, respecto a sus subordinados, los militares. De esta manera, la mención y presión a través del discurso luego de la generación de incentivos a través de la directiva ministrial ya mencionada (en conjunto) pueden dar paso a la generación de reportes de productividad individual que pueden generar resultados adversos.
