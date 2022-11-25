@@ -42,5 +42,5 @@ Las metodologías usadas en este proyecto están basadas en análisis de datos c
 La documentación de este documento se encuentra almacenada en los siguientes vínculos:
 
 - [Scraping](https://github.com/mpedrazaa/MCPP_Project/blob/main/Uribe%20-%20Scrapping.ipynb)
-- Visualización
-- Bases de datos
+- [Visualización](https://github.com/mpedrazaa/MCPP_Project/blob/main/Visualizaci%C3%B3n%20de%20Datos.ipynb)
+- [Base de datos de asesinatos selectivos (CNMH)](https://github.com/mpedrazaa/MCPP_Project/blob/main/asesinatos_month.csv)
