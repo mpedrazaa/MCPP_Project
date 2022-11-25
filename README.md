@@ -27,3 +27,20 @@ Los resultados encontrados muestran que:
 - Una de las palabras más repetidas por el ex-presidente en sus discursos es seguridad y, por tanto, esto muestra la importancia que tenía para él transmitir ideas sobre el tema en cuestión.
 - Los asesinatos selectivos por parte de los agentes del Estado muestran un comportamiento similar al de la mención de la palabra seguridad, lo que puede sugerir dos hipótesis: había más bajas y, por tanto, el presidente hablaba del tema o, por lo contrario, (causalidad reversa) cuando el presidente de hablaba de seguridad se producían más bajas
 - Bases de datos a partir de fuentes no tradicionales, como los discursos, permiten dar una mirada desde un aspecto no tradicional que puede dar cuentas del enfoque de políticas públicas y la relación entre el supervisor, en este caso el presidente, respecto a sus subordinados, los militares. De esta manera, la mención y presión a través del discurso luego de la generación de incentivos a través de la directiva ministrial ya mencionada (en conjunto) pueden dar paso a la generación de reportes de productividad individual que pueden generar resultados adversos.
+
+
+---
+
+## Metodología
+
+Las metodologías usadas en este proyecto están basadas en análisis de datos con base en la información extraída a partir de Web Scraping de los [discrusos realizados por el ex-presidente Álvaro Uribe Vélez entre 2002 y 2003](http://historico.presidencia.gov.co/discursos/index.htm). La demás información se ha visualizado a partir de los paquetes Seaborn y Matplotlib de Python.
+
+---
+
+## Documentación
+
+La documentación de este documento se encuentra almacenada en los siguientes vínculos:
+
+- [Scraping](https://github.com/mpedrazaa/MCPP_Project/blob/main/Uribe%20-%20Scrapping.ipynb)
+- Visualización
+- Bases de datos
